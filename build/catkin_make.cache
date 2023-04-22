@@ -1,0 +1,2 @@
+rosqt
+-DCATKIN_DEVEL_PREFIX=/home/xcg/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xcg/catkin_ws/install -G Unix Makefiles
