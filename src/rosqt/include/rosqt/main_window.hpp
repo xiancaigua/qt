@@ -22,6 +22,14 @@
 #include "geometry_msgs/Pose.h"
 #include "geometry_msgs/PoseStamped.h"
 
+#include<opencv2/opencv.hpp>
+#include<opencv2/highgui.hpp>
+#include<opencv2/imgproc.hpp>
+#include "sensor_msgs/image_encodings.h"
+#include<image_transport/subscriber.h>
+#include<sensor_msgs/Image.h>
+#include<cv_bridge/cv_bridge.h>
+
 #include <QDebug>
 
 /*****************************************************************************
@@ -64,6 +72,13 @@ public Q_SLOTS:
     void loadslot();
     void unloadslot();
     void startslot();
+
+    /******************************************
+    ** Camera messages
+    *******************************************/
+    void displayMat(cv::Mat image);//显示视频流的显示槽函数
+
+    void batteryslot(float);
 
 private:
 	Ui::MainWindowDesign ui;

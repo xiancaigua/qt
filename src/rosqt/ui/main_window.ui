@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>944</width>
-    <height>704</height>
+    <width>1209</width>
+    <height>735</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -53,10 +53,23 @@
            <string>Logging</string>
           </property>
           <layout class="QGridLayout" name="gridLayout_3">
+           <item row="5" column="0">
+            <widget class="QLabel" name="Robot_camera_label">
+             <property name="minimumSize">
+              <size>
+               <width>200</width>
+               <height>250</height>
+              </size>
+             </property>
+             <property name="text">
+              <string>TextLabel</string>
+             </property>
+            </widget>
+           </item>
            <item row="0" column="0">
             <widget class="QListView" name="view_logging"/>
            </item>
-           <item row="1" column="0">
+           <item row="4" column="0">
             <spacer name="verticalSpacer_4">
              <property name="orientation">
               <enum>Qt::Vertical</enum>
@@ -68,6 +81,20 @@
               </size>
              </property>
             </spacer>
+           </item>
+           <item row="2" column="0">
+            <widget class="QLabel" name="battery">
+             <property name="text">
+              <string>battery</string>
+             </property>
+            </widget>
+           </item>
+           <item row="3" column="0">
+            <widget class="QProgressBar" name="progressBar">
+             <property name="value">
+              <number>24</number>
+             </property>
+            </widget>
            </item>
           </layout>
          </widget>
@@ -83,7 +110,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>944</width>
+     <width>1209</width>
      <height>28</height>
     </rect>
    </property>
@@ -111,7 +138,7 @@
    <property name="minimumSize">
     <size>
      <width>325</width>
-     <height>494</height>
+     <height>599</height>
     </size>
    </property>
    <property name="allowedAreas">
@@ -146,6 +173,28 @@
            <string>Ros Master</string>
           </property>
           <layout class="QGridLayout" name="gridLayout">
+           <item row="8" column="1">
+            <widget class="QPushButton" name="button_connect">
+             <property name="enabled">
+              <bool>true</bool>
+             </property>
+             <property name="sizePolicy">
+              <sizepolicy hsizetype="MinimumExpanding" vsizetype="Fixed">
+               <horstretch>0</horstretch>
+               <verstretch>0</verstretch>
+              </sizepolicy>
+             </property>
+             <property name="toolTip">
+              <string>Set the target to the current joint trajectory state.</string>
+             </property>
+             <property name="statusTip">
+              <string>Clear all waypoints and set the target to the current joint trajectory state.</string>
+             </property>
+             <property name="text">
+              <string>Connect</string>
+             </property>
+            </widget>
+           </item>
            <item row="0" column="0">
             <widget class="QLabel" name="label">
              <property name="frameShape">
@@ -242,36 +291,71 @@
              </property>
             </spacer>
            </item>
-           <item row="8" column="1">
-            <widget class="QPushButton" name="button_connect">
-             <property name="enabled">
-              <bool>true</bool>
-             </property>
-             <property name="sizePolicy">
-              <sizepolicy hsizetype="MinimumExpanding" vsizetype="Fixed">
-               <horstretch>0</horstretch>
-               <verstretch>0</verstretch>
-              </sizepolicy>
-             </property>
-             <property name="toolTip">
-              <string>Set the target to the current joint trajectory state.</string>
-             </property>
-             <property name="statusTip">
-              <string>Clear all waypoints and set the target to the current joint trajectory state.</string>
-             </property>
-             <property name="text">
-              <string>Connect</string>
-             </property>
-            </widget>
-           </item>
           </layout>
          </widget>
         </item>
         <item>
-         <widget class="QPushButton" name="load">
-          <property name="text">
-           <string>load</string>
+         <widget class="QGroupBox" name="groupBox_2">
+          <property name="minimumSize">
+           <size>
+            <width>0</width>
+            <height>50</height>
+           </size>
           </property>
+          <property name="title">
+           <string>GroupBox</string>
+          </property>
+          <widget class="QLineEdit" name="load_y">
+           <property name="geometry">
+            <rect>
+             <x>200</x>
+             <y>20</y>
+             <width>80</width>
+             <height>25</height>
+            </rect>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>80</width>
+             <height>16777215</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QLineEdit" name="load_x">
+           <property name="geometry">
+            <rect>
+             <x>100</x>
+             <y>20</y>
+             <width>80</width>
+             <height>25</height>
+            </rect>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>80</width>
+             <height>16777215</height>
+            </size>
+           </property>
+          </widget>
+          <widget class="QPushButton" name="load">
+           <property name="geometry">
+            <rect>
+             <x>0</x>
+             <y>20</y>
+             <width>80</width>
+             <height>25</height>
+            </rect>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>80</width>
+             <height>16777215</height>
+            </size>
+           </property>
+           <property name="text">
+            <string>load</string>
+           </property>
+          </widget>
          </widget>
         </item>
         <item>

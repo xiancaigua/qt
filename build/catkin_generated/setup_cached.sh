@@ -10,6 +10,6 @@
 export CMAKE_PREFIX_PATH='/home/xcg/catkin_ws/devel'
 export LD_LIBRARY_PATH='/home/xcg/catkin_ws/devel/lib'
 export PATH='/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'
-export PKG_CONFIG_PATH='/home/xcg/catkin_ws/devel/lib/pkgconfig'
+export PKG_CONFIG_PATH='/home/xcg/catkin_ws/devel/lib/pkgconfig:/usr/local/lib/pkgconfig'
 export PWD='/home/xcg/catkin_ws/build'
 export PYTHONPATH=''

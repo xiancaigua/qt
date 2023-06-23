@@ -5,7 +5,7 @@
 		<Option title="googletest-distribution"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\opt\ros\melodic\;CMake Files\..\..\..\..\opt\ros\melodic\share\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\cmake\platform\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\cmake\test\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\cmake\tools\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\cmake\templates\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\cmake\em\;CMake Files\..\..\..\..\opt\ros\melodic\share\qt_build\;CMake Files\..\..\..\..\opt\ros\melodic\share\qt_build\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\roscpp\;CMake Files\..\..\..\..\opt\ros\melodic\share\roscpp\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\cpp_common\;CMake Files\..\..\..\..\opt\ros\melodic\share\cpp_common\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\message_runtime\;CMake Files\..\..\..\..\opt\ros\melodic\share\message_runtime\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\roscpp_serialization\;CMake Files\..\..\..\..\opt\ros\melodic\share\roscpp_serialization\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\roscpp_traits\;CMake Files\..\..\..\..\opt\ros\melodic\share\roscpp_traits\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\rostime\;CMake Files\..\..\..\..\opt\ros\melodic\share\rostime\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\rosconsole\;CMake Files\..\..\..\..\opt\ros\melodic\share\rosconsole\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\rosgraph_msgs\;CMake Files\..\..\..\..\opt\ros\melodic\share\rosgraph_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\std_msgs\;CMake Files\..\..\..\..\opt\ros\melodic\share\std_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\xmlrpcpp\;CMake Files\..\..\..\..\opt\ros\melodic\share\xmlrpcpp\cmake\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\src\;CMake Files\..\..\..\..\usr\src\googletest\;CMake Files\..\..\..\..\usr\src\googletest\googlemock\;CMake Files\..\..\..\..\usr\src\googletest\googletest\;CMake Files\..\..\..\..\usr\src\googletest\googletest\cmake\;CMake Files\..\build\;CMake Files\..\build\catkin\;CMake Files\..\build\catkin\catkin_generated\;CMake Files\..\build\catkin\catkin_generated\version\;CMake Files\..\build\catkin_generated\;CMake Files\..\build\catkin_generated\installspace\;CMake Files\..\build\rosqt\;CMake Files\..\build\rosqt\catkin_generated\;CMake Files\rosqt\;CMake Files\rosqt\resources\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\opt\ros\melodic\;CMake Files\..\..\..\..\opt\ros\melodic\share\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\cmake\platform\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\cmake\test\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\cmake\tools\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\cmake\templates\;CMake Files\..\..\..\..\opt\ros\melodic\share\catkin\cmake\em\;CMake Files\..\..\..\..\opt\ros\melodic\share\qt_build\;CMake Files\..\..\..\..\opt\ros\melodic\share\qt_build\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\roscpp\;CMake Files\..\..\..\..\opt\ros\melodic\share\roscpp\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\cpp_common\;CMake Files\..\..\..\..\opt\ros\melodic\share\cpp_common\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\message_runtime\;CMake Files\..\..\..\..\opt\ros\melodic\share\message_runtime\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\roscpp_serialization\;CMake Files\..\..\..\..\opt\ros\melodic\share\roscpp_serialization\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\roscpp_traits\;CMake Files\..\..\..\..\opt\ros\melodic\share\roscpp_traits\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\rostime\;CMake Files\..\..\..\..\opt\ros\melodic\share\rostime\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\rosconsole\;CMake Files\..\..\..\..\opt\ros\melodic\share\rosconsole\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\rosgraph_msgs\;CMake Files\..\..\..\..\opt\ros\melodic\share\rosgraph_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\std_msgs\;CMake Files\..\..\..\..\opt\ros\melodic\share\std_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\xmlrpcpp\;CMake Files\..\..\..\..\opt\ros\melodic\share\xmlrpcpp\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\cv_bridge\;CMake Files\..\..\..\..\opt\ros\melodic\share\cv_bridge\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\sensor_msgs\;CMake Files\..\..\..\..\opt\ros\melodic\share\sensor_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\geometry_msgs\;CMake Files\..\..\..\..\opt\ros\melodic\share\geometry_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\image_transport\;CMake Files\..\..\..\..\opt\ros\melodic\share\image_transport\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\message_filters\;CMake Files\..\..\..\..\opt\ros\melodic\share\message_filters\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\pluginlib\;CMake Files\..\..\..\..\opt\ros\melodic\share\pluginlib\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\class_loader\;CMake Files\..\..\..\..\opt\ros\melodic\share\class_loader\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\roslib\;CMake Files\..\..\..\..\opt\ros\melodic\share\roslib\cmake\;CMake Files\..\..\..\..\opt\ros\melodic\share\rospack\;CMake Files\..\..\..\..\opt\ros\melodic\share\rospack\cmake\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\src\;CMake Files\..\..\..\..\usr\src\googletest\;CMake Files\..\..\..\..\usr\src\googletest\googlemock\;CMake Files\..\..\..\..\usr\src\googletest\googletest\;CMake Files\..\..\..\..\usr\src\googletest\googletest\cmake\;CMake Files\..\..\opencv\;CMake Files\..\..\opencv\build\;CMake Files\..\build\;CMake Files\..\build\catkin\;CMake Files\..\build\catkin\catkin_generated\;CMake Files\..\build\catkin\catkin_generated\version\;CMake Files\..\build\catkin_generated\;CMake Files\..\build\catkin_generated\installspace\;CMake Files\..\build\rosqt\;CMake Files\..\build\rosqt\catkin_generated\;CMake Files\rosqt\;CMake Files\rosqt\resources\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/home/xcg/catkin_ws/build/gtest"/>
@@ -518,6 +518,75 @@
 		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/xmlrpcpp/cmake/xmlrpcppConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\xmlrpcpp\cmake\"/>
 		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/cv_bridge/cmake/cv_bridge-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\cv_bridge\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\cv_bridge\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/cv_bridge/cmake/cv_bridgeConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\cv_bridge\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/sensor_msgs/cmake/sensor_msgs-msg-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\sensor_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/sensor_msgs/cmake/sensor_msgsConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\sensor_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/sensor_msgs/cmake/sensor_msgsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\sensor_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\geometry_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\geometry_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\geometry_msgs\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/image_transport/cmake/image_transportConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\image_transport\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/image_transport/cmake/image_transportConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\image_transport\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/message_filters/cmake/message_filtersConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\message_filters\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/message_filters/cmake/message_filtersConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\message_filters\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/pluginlib/cmake/pluginlibConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\pluginlib\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/pluginlib/cmake/pluginlibConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\pluginlib\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/class_loader/cmake/class_loader-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\class_loader\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/class_loader/cmake/class_loaderConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\class_loader\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/class_loader/cmake/class_loaderConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\class_loader\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/roslib/cmake/roslib-extras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\roslib\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/roslib/cmake/roslibConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\roslib\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/roslib/cmake/roslibConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\roslib\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/rospack/cmake/rospackConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\rospack\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../../../opt/ros/melodic/share/rospack/cmake/rospackConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\melodic\share\rospack\cmake\"/>
+		</Unit>
 		<Unit filename="/home/xcg/catkin_ws/src/../../../../usr/src/googletest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\..\..\..\..\usr\src\googletest\"/>
 		</Unit>
@@ -529,6 +598,15 @@
 		</Unit>
 		<Unit filename="/home/xcg/catkin_ws/src/../../../../usr/src/googletest/googletest/cmake/internal_utils.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\usr\src\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../opencv/build/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\opencv\build\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../opencv/build/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\opencv\build\"/>
+		</Unit>
+		<Unit filename="/home/xcg/catkin_ws/src/../../opencv/build/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\opencv\build\"/>
 		</Unit>
 		<Unit filename="/home/xcg/catkin_ws/src/../build/catkin/catkin_generated/version/package.cmake">
 			<Option virtualFolder="CMake Files\..\build\catkin\catkin_generated\version\"/>

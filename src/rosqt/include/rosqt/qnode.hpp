@@ -34,6 +34,16 @@
 #include "geometry_msgs/Pose.h"
 #include "geometry_msgs/PoseStamped.h"
 #include <nav_msgs/Odometry.h>
+#include<sensor_msgs/Image.h>
+#include "sensor_msgs/image_encodings.h"
+#include<image_transport/subscriber.h>
+#include<image_transport/image_transport.h>
+#include<cv_bridge/cv_bridge.h>
+#include<opencv2/opencv.hpp>
+#include<opencv2/highgui.hpp>
+#include<opencv2/imgproc.hpp>
+#include<sensor_msgs/BatteryState.h>
+#include<std_msgs/Float32.h>
 
 /*****************************************************************************
 ** Namespaces
@@ -64,6 +74,7 @@ public:
     ros::Subscriber locate_sub;
     ros::Subscriber odom_sub;
     int k;
+    int robotlocation;
     geometry_msgs::PoseWithCovarianceStamped odom;
 
 	/*********************
@@ -80,9 +91,25 @@ public:
 	QStringListModel* loggingModel() { return &logging_model; }
 	void log( const LogLevel &level, const std::string &msg);
 
+    /*********************
+    ** Camera
+    **********************/
+    void myCallback_img(const sensor_msgs::ImageConstPtr& msg);
+    cv::Mat img;//发送的图片type
+    // ROS中用于接收图像消息类型的订阅者，用image_transport升明
+    image_transport::Subscriber image_sub;
+
+    /*********************
+    ** Battery
+    **********************/
+    ros::Subscriber battery;
+    void battery_callback(const std_msgs::Float32& msg);
+
 Q_SIGNALS:
 	void loggingUpdated();
     void rosShutdown();
+    void imageSignal(cv::Mat);//定义发送图片的信号
+    void batterySignal(float);
 
 private:
 	int init_argc;

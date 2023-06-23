@@ -56,7 +56,8 @@ MainWindow::MainWindow(int argc, char** argv, QWidget *parent)
     connect(ui.load,SIGNAL(clicked()),this,SLOT(loadslot()));
     connect(ui.unload,SIGNAL(clicked()),this,SLOT(unloadslot()));
     connect(ui.start,SIGNAL(clicked()),this,SLOT(startslot()));
-
+    connect(&qnode,SIGNAL(imageSignal(cv::Mat)),this,SLOT(displayMat(cv::Mat)),Qt::BlockingQueuedConnection);
+    connect(&qnode,SIGNAL(batterySignal(float)),this,SLOT(batteryslot(float)));
 }
 
 MainWindow::~MainWindow() {}
@@ -120,11 +121,13 @@ void MainWindow::on_checkbox_use_environment_stateChanged(int state) {
  * the user can always see the latest log message.
  */
 void MainWindow::updateLoggingView() {
-        ui.view_logging->scrollToBottom();
+    //qDebug()<<"loadslot";
+    ui.view_logging->scrollToBottom();
 }
 void MainWindow::loadslot()
 {
-    qDebug()<<"loadslot";
+    //qDebug()<<"loadslot";
+
     qnode.set_goal_from_buttom(0);
 }
 void MainWindow::unloadslot()
@@ -134,6 +137,48 @@ void MainWindow::unloadslot()
 void MainWindow::startslot()
 {
     qnode.set_goal_from_buttom(3);
+}
+
+
+/*****************************************************************************
+** Implementation [Camera]
+*****************************************************************************/
+void MainWindow::displayMat(cv::Mat image)
+{
+  cv::Mat rgb;
+  qDebug() << "displayMat ID=" << QThread::currentThread();
+  QImage img;
+  if(image.channels()==3)
+  {
+     //cvt Mat BGR 2 QImage RGB
+     cv::cvtColor(image,rgb,CV_BGR2RGB);
+     img =QImage((const unsigned char*)(rgb.data),
+                  rgb.cols,rgb.rows,
+                  rgb.cols*rgb.channels(),
+                  QImage::Format_RGB888);
+     qDebug()<<"cvt Mat BGR 2 QImage RGB";
+   }
+   else
+   {
+        img =QImage((const unsigned char*)(image.data),
+                        image.cols,image.rows,
+                        image.cols*image.channels(),
+                        QImage::Format_RGB888);
+        qDebug()<<"cvt Mat BGR 2 QImage RGB";
+    }
+
+    ui.Robot_camera_label->setPixmap(QPixmap::fromImage(img));//image_label就是你添加的label的对象名
+    ui.Robot_camera_label->setScaledContents(true);
+    qDebug()<<"ui.robot_src_label->setScaledContents(true);";
+
+}
+
+void MainWindow::batteryslot(float value)
+{
+    ui.battery->setText(QString::number(value).mid(0,5)+"V");
+    double n=(value-0/13-0);
+    int val=n*100;
+    ui.progressBar->setValue(50);
 }
 
 /*****************************************************************************
@@ -188,4 +233,3 @@ void MainWindow::closeEvent(QCloseEvent *event)
 }
 
 }  // namespace rosqt
-

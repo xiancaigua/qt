@@ -27,6 +27,7 @@
 #include <QtGui/QMainWindow>
 #include <QtGui/QMenu>
 #include <QtGui/QMenuBar>
+#include <QtGui/QProgressBar>
 #include <QtGui/QPushButton>
 #include <QtGui/QSpacerItem>
 #include <QtGui/QStatusBar>
@@ -52,6 +53,9 @@ public:
     QGridLayout *gridLayout_3;
     QListView *view_logging;
     QSpacerItem *verticalSpacer_4;
+    QLabel *Robot_camera_label;
+    QLabel *battery;
+    QProgressBar *progressBar;
     QMenuBar *menubar;
     QMenu *menu_File;
     QStatusBar *statusbar;
@@ -126,7 +130,24 @@ public:
 
         verticalSpacer_4 = new QSpacerItem(20, 40, QSizePolicy::Minimum, QSizePolicy::Expanding);
 
-        gridLayout_3->addItem(verticalSpacer_4, 1, 0, 1, 1);
+        gridLayout_3->addItem(verticalSpacer_4, 4, 0, 1, 1);
+
+        Robot_camera_label = new QLabel(groupBox_12);
+        Robot_camera_label->setObjectName(QString::fromUtf8("Robot_camera_label"));
+        Robot_camera_label->setMinimumSize(QSize(200, 250));
+
+        gridLayout_3->addWidget(Robot_camera_label, 5, 0, 1, 1);
+
+        battery = new QLabel(groupBox_12);
+        battery->setObjectName(QString::fromUtf8("battery"));
+
+        gridLayout_3->addWidget(battery, 2, 0, 1, 1);
+
+        progressBar = new QProgressBar(groupBox_12);
+        progressBar->setObjectName(QString::fromUtf8("progressBar"));
+        progressBar->setValue(24);
+
+        gridLayout_3->addWidget(progressBar, 3, 0, 1, 1);
 
 
         verticalLayout_2->addWidget(groupBox_12);
@@ -304,6 +325,8 @@ public:
         actionAbout->setText(QApplication::translate("MainWindowDesign", "&About", 0, QApplication::UnicodeUTF8));
         actionAbout_Qt->setText(QApplication::translate("MainWindowDesign", "About &Qt", 0, QApplication::UnicodeUTF8));
         groupBox_12->setTitle(QApplication::translate("MainWindowDesign", "Logging", 0, QApplication::UnicodeUTF8));
+        Robot_camera_label->setText(QApplication::translate("MainWindowDesign", "TextLabel", 0, QApplication::UnicodeUTF8));
+        battery->setText(QApplication::translate("MainWindowDesign", "TextLabel", 0, QApplication::UnicodeUTF8));
         tab_manager->setTabText(tab_manager->indexOf(tab_status), QApplication::translate("MainWindowDesign", "Ros Communications", 0, QApplication::UnicodeUTF8));
         menu_File->setTitle(QApplication::translate("MainWindowDesign", "&App", 0, QApplication::UnicodeUTF8));
         dock_status->setWindowTitle(QApplication::translate("MainWindowDesign", "Command Panel", 0, QApplication::UnicodeUTF8));

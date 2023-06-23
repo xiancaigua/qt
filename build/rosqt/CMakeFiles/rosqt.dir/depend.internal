@@ -5,6 +5,121 @@ rosqt/CMakeFiles/rosqt.dir/include/rosqt/moc_main_window.cxx.o
  /home/xcg/catkin_ws/build/rosqt/include/rosqt/moc_main_window.cxx
  /home/xcg/catkin_ws/src/rosqt/include/rosqt/main_window.hpp
  /home/xcg/catkin_ws/src/rosqt/include/rosqt/qnode.hpp
+ /home/xcg/opencv/build/cv_cpu_config.h
+ /home/xcg/opencv/build/cvconfig.h
+ /home/xcg/opencv/build/opencv2/opencv_modules.hpp
+ /home/xcg/opencv/include/opencv2/opencv.hpp
+ /home/xcg/opencv/modules/calib3d/include/opencv2/calib3d.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/affine.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/async.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/base.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/bufferpool.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/check.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/core.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/core_c.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda_types.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cv_cpu_dispatch.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cv_cpu_helper.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvdef.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd_wrapper.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/fast_math.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/hal/interface.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/hal/msa_macros.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/mat.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/mat.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/matx.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/neon_utils.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/operations.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/optim.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/ovx.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/persistence.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/saturate.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/traits.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/types.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/types_c.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/utility.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/utils/instrumentation.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/utils/tls.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/version.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/vsx_utils.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dict.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dnn.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dnn.inl.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/layer.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/utils/inference_engine.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/version.hpp
+ /home/xcg/opencv/modules/features2d/include/opencv2/features2d.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/all_indices.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/allocator.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/any.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/autotuned_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/composite_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/config.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/defines.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/dist.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/dynamic_bitset.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/flann_base.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/general.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/ground_truth.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/heap.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/hierarchical_clustering_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/index_testing.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kdtree_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kdtree_single_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kmeans_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/linear_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/logger.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/lsh_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/lsh_table.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/matrix.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/miniflann.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/nn_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/params.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/random.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/result_set.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/sampling.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/saving.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/timer.h
+ /home/xcg/opencv/modules/highgui/include/opencv2/highgui.hpp
+ /home/xcg/opencv/modules/imgcodecs/include/opencv2/imgcodecs.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/./imgproc/segmentation.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc/imgproc.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc/types_c.h
+ /home/xcg/opencv/modules/ml/include/opencv2/ml.hpp
+ /home/xcg/opencv/modules/ml/include/opencv2/ml/ml.inl.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_board.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_detector.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_dictionary.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/charuco_detector.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/detection_based_tracker.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/face.hpp
+ /home/xcg/opencv/modules/photo/include/opencv2/photo.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/blenders.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/camera.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/matchers.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/motion_estimators.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/seam_finders.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/util.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/util_inl.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/warpers.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/warpers.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video/background_segm.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video/tracking.hpp
+ /home/xcg/opencv/modules/videoio/include/opencv2/videoio.hpp
+ /opt/ros/melodic/include/cv_bridge/cv_bridge.h
  /opt/ros/melodic/include/geometry_msgs/Point.h
  /opt/ros/melodic/include/geometry_msgs/PointStamped.h
  /opt/ros/melodic/include/geometry_msgs/Pose.h
@@ -22,6 +137,15 @@ rosqt/CMakeFiles/rosqt.dir/include/rosqt/moc_main_window.cxx.o
  /opt/ros/melodic/include/geometry_msgs/Vector3Stamped.h
  /opt/ros/melodic/include/geometry_msgs/Wrench.h
  /opt/ros/melodic/include/geometry_msgs/WrenchStamped.h
+ /opt/ros/melodic/include/image_transport/camera_publisher.h
+ /opt/ros/melodic/include/image_transport/camera_subscriber.h
+ /opt/ros/melodic/include/image_transport/exception.h
+ /opt/ros/melodic/include/image_transport/image_transport.h
+ /opt/ros/melodic/include/image_transport/loader_fwds.h
+ /opt/ros/melodic/include/image_transport/publisher.h
+ /opt/ros/melodic/include/image_transport/single_subscriber_publisher.h
+ /opt/ros/melodic/include/image_transport/subscriber.h
+ /opt/ros/melodic/include/image_transport/transport_hints.h
  /opt/ros/melodic/include/kdl/frames.hpp
  /opt/ros/melodic/include/kdl/frames.inl
  /opt/ros/melodic/include/kdl/utilities/kdl-config.h
@@ -83,6 +207,13 @@ rosqt/CMakeFiles/rosqt.dir/include/rosqt/moc_main_window.cxx.o
  /opt/ros/melodic/include/ros/wall_timer.h
  /opt/ros/melodic/include/ros/wall_timer_options.h
  /opt/ros/melodic/include/rosconsole/macros_generated.h
+ /opt/ros/melodic/include/sensor_msgs/BatteryState.h
+ /opt/ros/melodic/include/sensor_msgs/CameraInfo.h
+ /opt/ros/melodic/include/sensor_msgs/CompressedImage.h
+ /opt/ros/melodic/include/sensor_msgs/Image.h
+ /opt/ros/melodic/include/sensor_msgs/RegionOfInterest.h
+ /opt/ros/melodic/include/sensor_msgs/image_encodings.h
+ /opt/ros/melodic/include/std_msgs/Float32.h
  /opt/ros/melodic/include/std_msgs/Header.h
  /opt/ros/melodic/include/std_msgs/Int32.h
  /opt/ros/melodic/include/tf2/LinearMath/Matrix3x3.h
@@ -205,6 +336,7 @@ rosqt/CMakeFiles/rosqt.dir/include/rosqt/moc_main_window.cxx.o
  /usr/include/qt4/QtGui/QMenu
  /usr/include/qt4/QtGui/QMenuBar
  /usr/include/qt4/QtGui/QPlatformWindow
+ /usr/include/qt4/QtGui/QProgressBar
  /usr/include/qt4/QtGui/QPushButton
  /usr/include/qt4/QtGui/QSpacerItem
  /usr/include/qt4/QtGui/QStatusBar
@@ -261,6 +393,7 @@ rosqt/CMakeFiles/rosqt.dir/include/rosqt/moc_main_window.cxx.o
  /usr/include/qt4/QtGui/qplatformwindow_qpa.h
  /usr/include/qt4/QtGui/qplatformwindowformat_qpa.h
  /usr/include/qt4/QtGui/qpolygon.h
+ /usr/include/qt4/QtGui/qprogressbar.h
  /usr/include/qt4/QtGui/qpushbutton.h
  /usr/include/qt4/QtGui/qregion.h
  /usr/include/qt4/QtGui/qrgb.h
@@ -287,6 +420,121 @@ rosqt/CMakeFiles/rosqt.dir/include/rosqt/moc_main_window.cxx.o
 rosqt/CMakeFiles/rosqt.dir/include/rosqt/moc_qnode.cxx.o
  /home/xcg/catkin_ws/build/rosqt/include/rosqt/moc_qnode.cxx
  /home/xcg/catkin_ws/src/rosqt/include/rosqt/qnode.hpp
+ /home/xcg/opencv/build/cv_cpu_config.h
+ /home/xcg/opencv/build/cvconfig.h
+ /home/xcg/opencv/build/opencv2/opencv_modules.hpp
+ /home/xcg/opencv/include/opencv2/opencv.hpp
+ /home/xcg/opencv/modules/calib3d/include/opencv2/calib3d.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/affine.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/async.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/base.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/bufferpool.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/check.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/core.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/core_c.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda_types.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cv_cpu_dispatch.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cv_cpu_helper.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvdef.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd_wrapper.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/fast_math.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/hal/interface.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/hal/msa_macros.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/mat.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/mat.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/matx.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/neon_utils.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/operations.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/optim.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/ovx.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/persistence.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/saturate.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/traits.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/types.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/types_c.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/utility.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/utils/instrumentation.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/utils/tls.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/version.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/vsx_utils.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dict.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dnn.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dnn.inl.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/layer.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/utils/inference_engine.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/version.hpp
+ /home/xcg/opencv/modules/features2d/include/opencv2/features2d.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/all_indices.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/allocator.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/any.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/autotuned_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/composite_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/config.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/defines.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/dist.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/dynamic_bitset.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/flann_base.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/general.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/ground_truth.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/heap.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/hierarchical_clustering_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/index_testing.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kdtree_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kdtree_single_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kmeans_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/linear_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/logger.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/lsh_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/lsh_table.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/matrix.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/miniflann.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/nn_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/params.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/random.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/result_set.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/sampling.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/saving.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/timer.h
+ /home/xcg/opencv/modules/highgui/include/opencv2/highgui.hpp
+ /home/xcg/opencv/modules/imgcodecs/include/opencv2/imgcodecs.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/./imgproc/segmentation.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc/imgproc.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc/types_c.h
+ /home/xcg/opencv/modules/ml/include/opencv2/ml.hpp
+ /home/xcg/opencv/modules/ml/include/opencv2/ml/ml.inl.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_board.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_detector.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_dictionary.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/charuco_detector.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/detection_based_tracker.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/face.hpp
+ /home/xcg/opencv/modules/photo/include/opencv2/photo.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/blenders.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/camera.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/matchers.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/motion_estimators.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/seam_finders.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/util.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/util_inl.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/warpers.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/warpers.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video/background_segm.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video/tracking.hpp
+ /home/xcg/opencv/modules/videoio/include/opencv2/videoio.hpp
+ /opt/ros/melodic/include/cv_bridge/cv_bridge.h
  /opt/ros/melodic/include/geometry_msgs/Point.h
  /opt/ros/melodic/include/geometry_msgs/PointStamped.h
  /opt/ros/melodic/include/geometry_msgs/Pose.h
@@ -304,6 +552,15 @@ rosqt/CMakeFiles/rosqt.dir/include/rosqt/moc_qnode.cxx.o
  /opt/ros/melodic/include/geometry_msgs/Vector3Stamped.h
  /opt/ros/melodic/include/geometry_msgs/Wrench.h
  /opt/ros/melodic/include/geometry_msgs/WrenchStamped.h
+ /opt/ros/melodic/include/image_transport/camera_publisher.h
+ /opt/ros/melodic/include/image_transport/camera_subscriber.h
+ /opt/ros/melodic/include/image_transport/exception.h
+ /opt/ros/melodic/include/image_transport/image_transport.h
+ /opt/ros/melodic/include/image_transport/loader_fwds.h
+ /opt/ros/melodic/include/image_transport/publisher.h
+ /opt/ros/melodic/include/image_transport/single_subscriber_publisher.h
+ /opt/ros/melodic/include/image_transport/subscriber.h
+ /opt/ros/melodic/include/image_transport/transport_hints.h
  /opt/ros/melodic/include/kdl/frames.hpp
  /opt/ros/melodic/include/kdl/frames.inl
  /opt/ros/melodic/include/kdl/utilities/kdl-config.h
@@ -365,6 +622,13 @@ rosqt/CMakeFiles/rosqt.dir/include/rosqt/moc_qnode.cxx.o
  /opt/ros/melodic/include/ros/wall_timer.h
  /opt/ros/melodic/include/ros/wall_timer_options.h
  /opt/ros/melodic/include/rosconsole/macros_generated.h
+ /opt/ros/melodic/include/sensor_msgs/BatteryState.h
+ /opt/ros/melodic/include/sensor_msgs/CameraInfo.h
+ /opt/ros/melodic/include/sensor_msgs/CompressedImage.h
+ /opt/ros/melodic/include/sensor_msgs/Image.h
+ /opt/ros/melodic/include/sensor_msgs/RegionOfInterest.h
+ /opt/ros/melodic/include/sensor_msgs/image_encodings.h
+ /opt/ros/melodic/include/std_msgs/Float32.h
  /opt/ros/melodic/include/std_msgs/Header.h
  /opt/ros/melodic/include/std_msgs/Int32.h
  /opt/ros/melodic/include/tf2/LinearMath/Matrix3x3.h
@@ -519,6 +783,121 @@ rosqt/CMakeFiles/rosqt.dir/src/main.cpp.o
  /home/xcg/catkin_ws/src/rosqt/include/rosqt/main_window.hpp
  /home/xcg/catkin_ws/src/rosqt/include/rosqt/qnode.hpp
  /home/xcg/catkin_ws/src/rosqt/src/main.cpp
+ /home/xcg/opencv/build/cv_cpu_config.h
+ /home/xcg/opencv/build/cvconfig.h
+ /home/xcg/opencv/build/opencv2/opencv_modules.hpp
+ /home/xcg/opencv/include/opencv2/opencv.hpp
+ /home/xcg/opencv/modules/calib3d/include/opencv2/calib3d.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/affine.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/async.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/base.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/bufferpool.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/check.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/core.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/core_c.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda_types.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cv_cpu_dispatch.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cv_cpu_helper.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvdef.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd_wrapper.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/fast_math.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/hal/interface.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/hal/msa_macros.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/mat.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/mat.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/matx.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/neon_utils.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/operations.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/optim.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/ovx.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/persistence.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/saturate.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/traits.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/types.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/types_c.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/utility.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/utils/instrumentation.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/utils/tls.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/version.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/vsx_utils.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dict.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dnn.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dnn.inl.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/layer.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/utils/inference_engine.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/version.hpp
+ /home/xcg/opencv/modules/features2d/include/opencv2/features2d.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/all_indices.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/allocator.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/any.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/autotuned_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/composite_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/config.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/defines.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/dist.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/dynamic_bitset.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/flann_base.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/general.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/ground_truth.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/heap.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/hierarchical_clustering_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/index_testing.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kdtree_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kdtree_single_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kmeans_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/linear_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/logger.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/lsh_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/lsh_table.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/matrix.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/miniflann.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/nn_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/params.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/random.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/result_set.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/sampling.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/saving.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/timer.h
+ /home/xcg/opencv/modules/highgui/include/opencv2/highgui.hpp
+ /home/xcg/opencv/modules/imgcodecs/include/opencv2/imgcodecs.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/./imgproc/segmentation.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc/imgproc.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc/types_c.h
+ /home/xcg/opencv/modules/ml/include/opencv2/ml.hpp
+ /home/xcg/opencv/modules/ml/include/opencv2/ml/ml.inl.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_board.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_detector.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_dictionary.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/charuco_detector.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/detection_based_tracker.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/face.hpp
+ /home/xcg/opencv/modules/photo/include/opencv2/photo.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/blenders.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/camera.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/matchers.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/motion_estimators.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/seam_finders.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/util.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/util_inl.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/warpers.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/warpers.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video/background_segm.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video/tracking.hpp
+ /home/xcg/opencv/modules/videoio/include/opencv2/videoio.hpp
+ /opt/ros/melodic/include/cv_bridge/cv_bridge.h
  /opt/ros/melodic/include/geometry_msgs/Point.h
  /opt/ros/melodic/include/geometry_msgs/PointStamped.h
  /opt/ros/melodic/include/geometry_msgs/Pose.h
@@ -536,6 +915,15 @@ rosqt/CMakeFiles/rosqt.dir/src/main.cpp.o
  /opt/ros/melodic/include/geometry_msgs/Vector3Stamped.h
  /opt/ros/melodic/include/geometry_msgs/Wrench.h
  /opt/ros/melodic/include/geometry_msgs/WrenchStamped.h
+ /opt/ros/melodic/include/image_transport/camera_publisher.h
+ /opt/ros/melodic/include/image_transport/camera_subscriber.h
+ /opt/ros/melodic/include/image_transport/exception.h
+ /opt/ros/melodic/include/image_transport/image_transport.h
+ /opt/ros/melodic/include/image_transport/loader_fwds.h
+ /opt/ros/melodic/include/image_transport/publisher.h
+ /opt/ros/melodic/include/image_transport/single_subscriber_publisher.h
+ /opt/ros/melodic/include/image_transport/subscriber.h
+ /opt/ros/melodic/include/image_transport/transport_hints.h
  /opt/ros/melodic/include/kdl/frames.hpp
  /opt/ros/melodic/include/kdl/frames.inl
  /opt/ros/melodic/include/kdl/utilities/kdl-config.h
@@ -597,6 +985,13 @@ rosqt/CMakeFiles/rosqt.dir/src/main.cpp.o
  /opt/ros/melodic/include/ros/wall_timer.h
  /opt/ros/melodic/include/ros/wall_timer_options.h
  /opt/ros/melodic/include/rosconsole/macros_generated.h
+ /opt/ros/melodic/include/sensor_msgs/BatteryState.h
+ /opt/ros/melodic/include/sensor_msgs/CameraInfo.h
+ /opt/ros/melodic/include/sensor_msgs/CompressedImage.h
+ /opt/ros/melodic/include/sensor_msgs/Image.h
+ /opt/ros/melodic/include/sensor_msgs/RegionOfInterest.h
+ /opt/ros/melodic/include/sensor_msgs/image_encodings.h
+ /opt/ros/melodic/include/std_msgs/Float32.h
  /opt/ros/melodic/include/std_msgs/Header.h
  /opt/ros/melodic/include/std_msgs/Int32.h
  /opt/ros/melodic/include/tf2/LinearMath/Matrix3x3.h
@@ -818,6 +1213,7 @@ rosqt/CMakeFiles/rosqt.dir/src/main.cpp.o
  /usr/include/qt4/QtGui/QPalette
  /usr/include/qt4/QtGui/QPlatformWindow
  /usr/include/qt4/QtGui/QPrinter
+ /usr/include/qt4/QtGui/QProgressBar
  /usr/include/qt4/QtGui/QPushButton
  /usr/include/qt4/QtGui/QSpacerItem
  /usr/include/qt4/QtGui/QStatusBar
@@ -1066,6 +1462,121 @@ rosqt/CMakeFiles/rosqt.dir/src/main_window.cpp.o
  /home/xcg/catkin_ws/src/rosqt/include/rosqt/main_window.hpp
  /home/xcg/catkin_ws/src/rosqt/include/rosqt/qnode.hpp
  /home/xcg/catkin_ws/src/rosqt/src/main_window.cpp
+ /home/xcg/opencv/build/cv_cpu_config.h
+ /home/xcg/opencv/build/cvconfig.h
+ /home/xcg/opencv/build/opencv2/opencv_modules.hpp
+ /home/xcg/opencv/include/opencv2/opencv.hpp
+ /home/xcg/opencv/modules/calib3d/include/opencv2/calib3d.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/affine.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/async.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/base.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/bufferpool.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/check.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/core.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/core_c.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda_types.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cv_cpu_dispatch.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cv_cpu_helper.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvdef.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd_wrapper.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/fast_math.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/hal/interface.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/hal/msa_macros.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/mat.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/mat.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/matx.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/neon_utils.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/operations.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/optim.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/ovx.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/persistence.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/saturate.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/traits.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/types.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/types_c.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/utility.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/utils/instrumentation.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/utils/tls.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/version.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/vsx_utils.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dict.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dnn.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dnn.inl.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/layer.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/utils/inference_engine.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/version.hpp
+ /home/xcg/opencv/modules/features2d/include/opencv2/features2d.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/all_indices.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/allocator.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/any.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/autotuned_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/composite_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/config.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/defines.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/dist.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/dynamic_bitset.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/flann_base.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/general.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/ground_truth.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/heap.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/hierarchical_clustering_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/index_testing.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kdtree_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kdtree_single_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kmeans_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/linear_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/logger.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/lsh_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/lsh_table.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/matrix.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/miniflann.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/nn_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/params.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/random.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/result_set.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/sampling.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/saving.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/timer.h
+ /home/xcg/opencv/modules/highgui/include/opencv2/highgui.hpp
+ /home/xcg/opencv/modules/imgcodecs/include/opencv2/imgcodecs.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/./imgproc/segmentation.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc/imgproc.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc/types_c.h
+ /home/xcg/opencv/modules/ml/include/opencv2/ml.hpp
+ /home/xcg/opencv/modules/ml/include/opencv2/ml/ml.inl.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_board.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_detector.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_dictionary.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/charuco_detector.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/detection_based_tracker.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/face.hpp
+ /home/xcg/opencv/modules/photo/include/opencv2/photo.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/blenders.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/camera.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/matchers.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/motion_estimators.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/seam_finders.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/util.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/util_inl.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/warpers.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/warpers.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video/background_segm.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video/tracking.hpp
+ /home/xcg/opencv/modules/videoio/include/opencv2/videoio.hpp
+ /opt/ros/melodic/include/cv_bridge/cv_bridge.h
  /opt/ros/melodic/include/geometry_msgs/Point.h
  /opt/ros/melodic/include/geometry_msgs/PointStamped.h
  /opt/ros/melodic/include/geometry_msgs/Pose.h
@@ -1083,6 +1594,15 @@ rosqt/CMakeFiles/rosqt.dir/src/main_window.cpp.o
  /opt/ros/melodic/include/geometry_msgs/Vector3Stamped.h
  /opt/ros/melodic/include/geometry_msgs/Wrench.h
  /opt/ros/melodic/include/geometry_msgs/WrenchStamped.h
+ /opt/ros/melodic/include/image_transport/camera_publisher.h
+ /opt/ros/melodic/include/image_transport/camera_subscriber.h
+ /opt/ros/melodic/include/image_transport/exception.h
+ /opt/ros/melodic/include/image_transport/image_transport.h
+ /opt/ros/melodic/include/image_transport/loader_fwds.h
+ /opt/ros/melodic/include/image_transport/publisher.h
+ /opt/ros/melodic/include/image_transport/single_subscriber_publisher.h
+ /opt/ros/melodic/include/image_transport/subscriber.h
+ /opt/ros/melodic/include/image_transport/transport_hints.h
  /opt/ros/melodic/include/kdl/frames.hpp
  /opt/ros/melodic/include/kdl/frames.inl
  /opt/ros/melodic/include/kdl/utilities/kdl-config.h
@@ -1144,6 +1664,13 @@ rosqt/CMakeFiles/rosqt.dir/src/main_window.cpp.o
  /opt/ros/melodic/include/ros/wall_timer.h
  /opt/ros/melodic/include/ros/wall_timer_options.h
  /opt/ros/melodic/include/rosconsole/macros_generated.h
+ /opt/ros/melodic/include/sensor_msgs/BatteryState.h
+ /opt/ros/melodic/include/sensor_msgs/CameraInfo.h
+ /opt/ros/melodic/include/sensor_msgs/CompressedImage.h
+ /opt/ros/melodic/include/sensor_msgs/Image.h
+ /opt/ros/melodic/include/sensor_msgs/RegionOfInterest.h
+ /opt/ros/melodic/include/sensor_msgs/image_encodings.h
+ /opt/ros/melodic/include/std_msgs/Float32.h
  /opt/ros/melodic/include/std_msgs/Header.h
  /opt/ros/melodic/include/std_msgs/Int32.h
  /opt/ros/melodic/include/tf2/LinearMath/Matrix3x3.h
@@ -1366,6 +1893,7 @@ rosqt/CMakeFiles/rosqt.dir/src/main_window.cpp.o
  /usr/include/qt4/QtGui/QPalette
  /usr/include/qt4/QtGui/QPlatformWindow
  /usr/include/qt4/QtGui/QPrinter
+ /usr/include/qt4/QtGui/QProgressBar
  /usr/include/qt4/QtGui/QPushButton
  /usr/include/qt4/QtGui/QSpacerItem
  /usr/include/qt4/QtGui/QStatusBar
@@ -1613,6 +2141,121 @@ rosqt/CMakeFiles/rosqt.dir/src/main_window.cpp.o
 rosqt/CMakeFiles/rosqt.dir/src/qnode.cpp.o
  /home/xcg/catkin_ws/src/rosqt/include/rosqt/qnode.hpp
  /home/xcg/catkin_ws/src/rosqt/src/qnode.cpp
+ /home/xcg/opencv/build/cv_cpu_config.h
+ /home/xcg/opencv/build/cvconfig.h
+ /home/xcg/opencv/build/opencv2/opencv_modules.hpp
+ /home/xcg/opencv/include/opencv2/opencv.hpp
+ /home/xcg/opencv/modules/calib3d/include/opencv2/calib3d.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/affine.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/async.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/base.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/bufferpool.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/check.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/core.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/core_c.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cuda_types.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cv_cpu_dispatch.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cv_cpu_helper.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvdef.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/cvstd_wrapper.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/fast_math.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/hal/interface.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/hal/msa_macros.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/mat.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/mat.inl.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/matx.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/neon_utils.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/operations.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/optim.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/ovx.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/persistence.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/saturate.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/traits.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/types.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/types_c.h
+ /home/xcg/opencv/modules/core/include/opencv2/core/utility.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/utils/instrumentation.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/utils/tls.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/version.hpp
+ /home/xcg/opencv/modules/core/include/opencv2/core/vsx_utils.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dict.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dnn.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/dnn.inl.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/layer.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/utils/inference_engine.hpp
+ /home/xcg/opencv/modules/dnn/include/opencv2/dnn/version.hpp
+ /home/xcg/opencv/modules/features2d/include/opencv2/features2d.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/all_indices.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/allocator.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/any.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/autotuned_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/composite_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/config.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/defines.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/dist.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/dynamic_bitset.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/flann_base.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/general.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/ground_truth.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/heap.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/hierarchical_clustering_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/index_testing.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kdtree_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kdtree_single_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/kmeans_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/linear_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/logger.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/lsh_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/lsh_table.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/matrix.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/miniflann.hpp
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/nn_index.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/params.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/random.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/result_set.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/sampling.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/saving.h
+ /home/xcg/opencv/modules/flann/include/opencv2/flann/timer.h
+ /home/xcg/opencv/modules/highgui/include/opencv2/highgui.hpp
+ /home/xcg/opencv/modules/imgcodecs/include/opencv2/imgcodecs.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/./imgproc/segmentation.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc/imgproc.hpp
+ /home/xcg/opencv/modules/imgproc/include/opencv2/imgproc/types_c.h
+ /home/xcg/opencv/modules/ml/include/opencv2/ml.hpp
+ /home/xcg/opencv/modules/ml/include/opencv2/ml/ml.inl.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_board.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_detector.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/aruco_dictionary.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/charuco_detector.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/detection_based_tracker.hpp
+ /home/xcg/opencv/modules/objdetect/include/opencv2/objdetect/face.hpp
+ /home/xcg/opencv/modules/photo/include/opencv2/photo.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/blenders.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/camera.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/exposure_compensate.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/matchers.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/motion_estimators.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/seam_finders.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/util.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/util_inl.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/warpers.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/detail/warpers_inl.hpp
+ /home/xcg/opencv/modules/stitching/include/opencv2/stitching/warpers.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video/background_segm.hpp
+ /home/xcg/opencv/modules/video/include/opencv2/video/tracking.hpp
+ /home/xcg/opencv/modules/videoio/include/opencv2/videoio.hpp
+ /opt/ros/melodic/include/cv_bridge/cv_bridge.h
  /opt/ros/melodic/include/geometry_msgs/Point.h
  /opt/ros/melodic/include/geometry_msgs/PointStamped.h
  /opt/ros/melodic/include/geometry_msgs/Pose.h
@@ -1630,6 +2273,15 @@ rosqt/CMakeFiles/rosqt.dir/src/qnode.cpp.o
  /opt/ros/melodic/include/geometry_msgs/Vector3Stamped.h
  /opt/ros/melodic/include/geometry_msgs/Wrench.h
  /opt/ros/melodic/include/geometry_msgs/WrenchStamped.h
+ /opt/ros/melodic/include/image_transport/camera_publisher.h
+ /opt/ros/melodic/include/image_transport/camera_subscriber.h
+ /opt/ros/melodic/include/image_transport/exception.h
+ /opt/ros/melodic/include/image_transport/image_transport.h
+ /opt/ros/melodic/include/image_transport/loader_fwds.h
+ /opt/ros/melodic/include/image_transport/publisher.h
+ /opt/ros/melodic/include/image_transport/single_subscriber_publisher.h
+ /opt/ros/melodic/include/image_transport/subscriber.h
+ /opt/ros/melodic/include/image_transport/transport_hints.h
  /opt/ros/melodic/include/kdl/frames.hpp
  /opt/ros/melodic/include/kdl/frames.inl
  /opt/ros/melodic/include/kdl/utilities/kdl-config.h
@@ -1692,6 +2344,13 @@ rosqt/CMakeFiles/rosqt.dir/src/qnode.cpp.o
  /opt/ros/melodic/include/ros/wall_timer.h
  /opt/ros/melodic/include/ros/wall_timer_options.h
  /opt/ros/melodic/include/rosconsole/macros_generated.h
+ /opt/ros/melodic/include/sensor_msgs/BatteryState.h
+ /opt/ros/melodic/include/sensor_msgs/CameraInfo.h
+ /opt/ros/melodic/include/sensor_msgs/CompressedImage.h
+ /opt/ros/melodic/include/sensor_msgs/Image.h
+ /opt/ros/melodic/include/sensor_msgs/RegionOfInterest.h
+ /opt/ros/melodic/include/sensor_msgs/image_encodings.h
+ /opt/ros/melodic/include/std_msgs/Float32.h
  /opt/ros/melodic/include/std_msgs/Header.h
  /opt/ros/melodic/include/std_msgs/Int32.h
  /opt/ros/melodic/include/std_msgs/String.h

@@ -22,7 +22,7 @@ static const uint qt_meta_data_rosqt__MainWindow[] = {
        6,       // revision
        0,       // classname
        0,    0, // classinfo
-       7,   14, // methods
+       9,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
@@ -37,6 +37,8 @@ static const uint qt_meta_data_rosqt__MainWindow[] = {
      156,   18,   18,   18, 0x0a,
      167,   18,   18,   18, 0x0a,
      180,   18,   18,   18, 0x0a,
+     198,  192,   18,   18, 0x0a,
+     218,   18,   18,   18, 0x0a,
 
        0        // eod
 };
@@ -46,7 +48,8 @@ static const char qt_meta_stringdata_rosqt__MainWindow[] = {
     "check\0on_button_connect_clicked(bool)\0"
     "state\0on_checkbox_use_environment_stateChanged(int)\0"
     "updateLoggingView()\0loadslot()\0"
-    "unloadslot()\0startslot()\0"
+    "unloadslot()\0startslot()\0image\0"
+    "displayMat(cv::Mat)\0batteryslot(float)\0"
 };
 
 void rosqt::MainWindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
@@ -62,6 +65,8 @@ void rosqt::MainWindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, in
         case 4: _t->loadslot(); break;
         case 5: _t->unloadslot(); break;
         case 6: _t->startslot(); break;
+        case 7: _t->displayMat((*reinterpret_cast< cv::Mat(*)>(_a[1]))); break;
+        case 8: _t->batteryslot((*reinterpret_cast< float(*)>(_a[1]))); break;
         default: ;
         }
     }
@@ -99,9 +104,9 @@ int rosqt::MainWindow::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 7)
+        if (_id < 9)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 7;
+        _id -= 9;
     }
     return _id;
 }
